@@ -1,0 +1,175 @@
+/*==== COMMON CSS START ====*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: ;
+}
+/*==== COMMON CSS END ====*/
+
+/*==== HEADER CSS START ====*/
+header{
+	background-color: #fcdb00;
+	padding: 20px 0;
+}
+.menu ul li a{
+	padding: 0 50px !important;
+	font-size: 22px;
+	color: #010101 !important;
+	font-weight: 700;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: #ffffff !important;
+}
+/*==== HEADER CSS END ====*/
+
+/*==== SLIDER CSS START ====*/
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+.c-indicator {
+    bottom: -80px;
+}
+.c-indicator [data-bs-target] {
+
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.slider-text{
+	margin-top: 60px;
+}
+.slider-text h1{
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.slider-text h2{
+	margin: 20px 0;
+	font-size: 22px;
+	font-weight: 400;
+	color: #313841;
+}
+.slider-text p{
+	margin-bottom: 35px;
+	font-size: 16px;
+	letter-spacing: 1px;
+    color: #555555;
+    line-height: 23px;
+}
+.s_icon{}
+.s_icon ul li{
+	margin-right: 30px !important;
+}
+.s_icon ul li i{
+	font-size: 42px;
+	color: #010101;
+	transition: 0.4s all ease-in-out;
+}
+.s_icon ul li i:hover{
+	transform: scale(.8);
+	color: #ffffff;
+}
+.slider-img img{
+	
+}
+/*==== SLIDER CSS END ====*/
+
+/*==== FEATURE CSS START ====*/
+.feature{
+	padding-top: 100px;
+	padding-bottom: 120px;
+}
+.common_h1{
+	margin-bottom: 15px;
+	font-size: 32px;
+	font-weight: 700;
+	color: #010101;
+}
+.common_p{
+	font-size: 20px;
+	color: #313841;
+}
+.feature-item{
+	margin-top: 70px;
+}
+.feature-icon{
+
+}
+.feature-icon i{
+	margin-top: 4px;
+	font-size: 50px;
+	color: #010101;
+	transition: 0.33s all ease-in-out;
+}
+.feature-icon i:hover{
+	transform: scale(.8);
+	/*color: #FCDB00;*/
+}
+.feature-text{}
+.feature-text h2{
+	margin-bottom: 10px;
+	font-size: 22px;
+	font-weight: 400;
+	color: #010101;
+}
+
+/*==== FEATURE CSS END ====*/
+
+/*==== CONTACT CSS START ====*/
+.contact{
+	padding-top: 90px;
+	background-color: #010101;
+}
+.contact_h1{
+	color: #FCDB00;
+}
+.contact_p{
+	color: #898989;
+}
+.input-item{
+	margin-top: 40px;
+}
+.input-box input{
+	padding: 10px 25px;
+}
+.submit-btn button{
+	background-color: #FCDB00;
+	text-transform: uppercase;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+	padding: 10px 25px;
+	color: #010101;
+	border: none;
+}
+/*==== CONTACT CSS END ====*/
+
+/*==== FOOTER CSS START ====*/
+footer{
+	padding-top: 70px;
+	padding-bottom: 110px;
+	background-color: #010101;
+}
+.social-icon{
+	margin-bottom: 100px;
+}
+.social-icon ul li{
+	margin-right: 30px !important;
+}
+.social-icon ul li i{
+	font-size: 42px;
+	color: #FCDB00;
+	transition: 0.4s;
+}
+.social-icon ul li i:hover{
+	transform: scale(.9);
+	color: #ffffff;
+}
+.footer-content p{
+	color: #ffffff;
+}
+/*==== FOOTER CSS END ====*/

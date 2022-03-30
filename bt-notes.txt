@@ -1,0 +1,45 @@
+font family------
+	font-family: 'PT Sans', sans-serif;
+
+color-------
+	black : #010101
+	ash : #898989
+	yellow : #fcdb00
+
+
+Responsive======
+
+Laptop
+	xxl - 1440  - 1600 - 1800 - 2100
+	xl  - 1200
+	lg	- 1024
+
+Tablet
+	md	- 768
+
+Mobile
+	sm	- 576
+	col - 320
+
+
+Responsive Design
+====================
+Header==
+		lg/xl/xxl         md           sm/col
+		---------       -------     -----------
+Menu        22			   22			20
+
+    
+slider/section--    
+Padding- 	100-110 	   70-80		50-55
+ 
+h1				32
+h2              22
+p               16
+icon            42
+p-b
+
+feature--
+padding        100-120     80-100       50-70
+h1              32            32          26
+p               20            20           
